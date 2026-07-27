@@ -1,6 +1,12 @@
 [
   {
-    "title": "Foto 1",
-    "image": "https://link-gambar.com/foto.jpg"
+    "title": "Foto 123",
+    "images": [
+      "https://link-foto1.com/foto1.jpg",
+      "https://link-foto2.com/foto2.jpg",
+      "https://link-foto3.com/foto3.jpg"
+    ],
+    "direct1": "https://link-direct1.com",
+    "direct2": "https://link-direct2.com"
   }
 ]
