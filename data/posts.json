@@ -1,12 +1,13 @@
 [
-  {
-    "title": "Foto 123",
-    "images": [
-      "https://freeimage.host/i/CkgNd4j",
-      "https://link-foto2.com/foto2.jpg",
-      "https://link-foto3.com/foto3.jpg"
-    ],
-    "direct1": "https://link-direct1.com",
-    "direct2": "https://link-direct2.com"
-  }
+ {
+  "title":"Test Foto",
+  "images":[
+   "link-foto1",
+   "link-foto2",
+   "link-foto3"
+  ],
+  "link1":"direct-link-1",
+  "link2":"direct-link-2",
+  "date":"tanggal upload"
+ }
 ]
