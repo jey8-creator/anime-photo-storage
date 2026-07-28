@@ -1,13 +1,1 @@
-[
- {
-  "title":"Test Foto",
-  "images":[
-   "link-foto1",
-   "link-foto2",
-   "link-foto3"
-  ],
-  "link1":"direct-link-1",
-  "link2":"direct-link-2",
-  "date":"tanggal upload"
- }
-]
+[]
