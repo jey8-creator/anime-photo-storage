@@ -1,39 +1,11 @@
 [
-  {
-    "title": "anime",
-    "images": [
-      "https://raw.githubusercontent.com/jey8-creator/anime-photo-storage/main/photos/1785238858435-44381.jpg",
-      "https://raw.githubusercontent.com/jey8-creator/anime-photo-storage/main/photos/1785238859812-44521.jpg",
-      "https://raw.githubusercontent.com/jey8-creator/anime-photo-storage/main/photos/1785238861368-44361.jpg"
-    ],
-    "button1": "lewatin  iklan bicolink",
-    "button2": "alternatif pay 2k",
-    "link1": "https://bicolink.com/xDHhYMAF",
-    "link2": "https://bayarlink.com/RPtl6s",
-    "date": "28/7/2026, 11.41.03"
-  },
-  {
-    "title": "okep 123",
-    "images": [
-      "https://raw.githubusercontent.com/jey8-creator/anime-photo-storage/main/photos/1785236963234-44521.jpg",
-      "https://raw.githubusercontent.com/jey8-creator/anime-photo-storage/main/photos/1785236964644-44381.jpg",
-      "https://raw.githubusercontent.com/jey8-creator/anime-photo-storage/main/photos/1785236966120-44361.jpg"
-    ],
-    "button1": "lewatin iklan bicoclink",
-    "button2": "alternatif pay 2k langsung nonton",
-    "link1": "bicolink.com",
-    "link2": "whatsaap.com",
-    "date": "28/7/2026, 11.09.27"
-  },
-  {
-    "title": " okep",
-    "images": [
-      "https://raw.githubusercontent.com/jey8-creator/anime-photo-storage/main/photos/1785236060974-44521.jpg",
-      "https://raw.githubusercontent.com/jey8-creator/anime-photo-storage/main/photos/1785236062762-44364.jpg",
-      "https://raw.githubusercontent.com/jey8-creator/anime-photo-storage/main/photos/1785236064408-44521.jpg"
-    ],
-    "link1": "nbss",
-    "link2": "jaisjs",
-    "date": "28/7/2026, 10.54.26"
-  }
+ {
+  "title":"Video Baru",
+  "video":"https://raw.githubusercontent.com/jey8-creator/anime-photo-storage/main/videos/video1.mp4",
+  "button1":"Lewati Iklan",
+  "link1":"https://link1.com",
+  "button2":"Nonton Langsung",
+  "link2":"https://link2.com",
+  "date":"31/7/2026"
+ }
 ]
